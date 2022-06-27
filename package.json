@@ -1,0 +1,13 @@
+{
+  "name": "Clean-Code-e-Clean-Architecture-Turma-7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ederfmatos/Clean-Code-e-Clean-Architecture-Turma-7",
+  "author": "Eder Matos <ederfmatos@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  }
+}
